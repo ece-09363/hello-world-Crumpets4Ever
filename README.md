@@ -6,6 +6,11 @@
 1. Post a selfie
 ![alt text][selfie]
 
-[selfie]: IMG_20180129_125611.jpg
+[selfie]: githubselfie.jpg
 
 2. Tell me something interesting about yourself
+I have a photogenic dog.
+
+![alt text][dog]
+
+[dog]: ariel.jpg
